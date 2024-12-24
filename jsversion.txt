@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/ECMAScript
+ECMAScript
+
+maintains standard of JS.
+ECMAScript pushes new changes
+updates new changes every year. Check out to get updated with JS updates.
+ECMAScript new versions gets updated every year and will keep coming
+
+https://ecma-international.org/publications-and-standards/standards/ecma-262/
